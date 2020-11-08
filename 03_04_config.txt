@@ -1,0 +1,13 @@
+# We'll need to get a personal API key from our git repo
+#1, create a fork of this repositry:
+
+https://github.com/robertstarmer/jenkins-git.git
+
+# creating
+
+https://github.com/Hrtkk/jenkins-git.git
+#2, in github, get a personal access token:
+
+
+
+git@github.com:Hrtkk/Jenkins-Integration.git
