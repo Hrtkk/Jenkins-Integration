@@ -9,6 +9,7 @@ pipeline {
                     dir
                     echo "Checking polling"
                     echo "new branch created"
+                    echo "Its working"
                 '''
             }
         }
