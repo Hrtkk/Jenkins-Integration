@@ -7,6 +7,7 @@ pipeline {
                 bat '''
                     echo "Multiline shell steps works too"
                     dir
+                    echo "Checking polling"
                 '''
             }
         }
