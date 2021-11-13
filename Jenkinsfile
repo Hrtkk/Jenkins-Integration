@@ -10,6 +10,7 @@ pipeline {
                     echo "Checking polling"
                     echo "new branch created"
                     echo "Its working"
+                    echo "Deleted Project level webhook'
                 '''
             }
         }
