@@ -8,6 +8,7 @@ pipeline {
                     echo "Multiline shell steps works too"
                     dir
                     echo "Checking polling"
+                    echo "new branch created"
                 '''
             }
         }
